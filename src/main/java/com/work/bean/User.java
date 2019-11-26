@@ -6,6 +6,7 @@ package com.work.bean;
 *我改了
  */
 //2333333333333333333333
+//I love Github
 public class User {
     private Integer id;
     private String username;
