@@ -3,6 +3,7 @@ package com.work.bean;
 /**
  * @authar Mr.Feng
  * @date 2019/11/25 - 23:29
+*我改了
  */
 public class User {
     private Integer id;
